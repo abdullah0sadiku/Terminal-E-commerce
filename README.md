@@ -50,16 +50,16 @@ To compile and execute this application on your local machine, follow these inst
 1.  **Clone the Repository:**
     If you haven't already, clone this GitHub repository to your local machine:
     ```bash
-    git clone [https://github.com/abdullah0sadiku/Shkolla.git](https://github.com/abdullah0sadiku/Shkolla.git)
+    git clone [https://github.com/abdullah0sadiku/Terminal-E-commerce](https://github.com/abdullah0sadiku/Terminal-E-commerce)
     ```
     (Ensure you replace `abdullah0sadiku/Shkolla.git` with the actual path to your repository if it's different.)
 
 2.  **Navigate to the Project Directory:**
     Change your current directory to where your Java source files (`Product.java`, `ShoppingCart.java`, `Main.java`) are located. This is typically the root of the cloned repository or a `src` subdirectory within it.
     ```bash
-    cd Shkolla
+    cd Terminal-E-commerce
     # or if your .java files are in a src folder:
-    # cd Shkolla/src
+    # cd Terminal-E-commerce/src
     ```
 
 3.  **Compile the Java Files:**
@@ -100,4 +100,4 @@ Enter the number corresponding to your desired action and follow the prompts. Fo
 * Enter `4` to view the current contents of your shopping cart.
 * Enter `6` to proceed with the checkout process and finalize your purchase.
 
-Have fun exploring Dulla <3 
+Have fun exploring from Dulla <3 
